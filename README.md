@@ -20,6 +20,7 @@ Required materials
 
 1 - bottom case
 
+Software from - https://github.com/JulienBernard3383279/pico-rectangle
 
 
 
