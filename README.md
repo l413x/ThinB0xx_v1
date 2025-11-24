@@ -20,6 +20,8 @@ Required materials
 
 1 - bottom case
 
+26 gauge solid wire
+
 Software from - https://github.com/JulienBernard3383279/pico-rectangle
 
 
